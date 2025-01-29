@@ -1,0 +1,25 @@
+{
+  "name": "hng12_backend",
+  "version": "1.0.0",
+  "description": "Public Api",
+  "main": "index.js",
+  "engine ": {
+    "node": "20.16.0",
+    "npm": "10.8.2"
+  },
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yinusa Ridwan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "express-routemap": "^1.6.0",
+    "nodemon": "^3.1.9"
+  }
+}
