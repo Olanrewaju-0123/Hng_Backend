@@ -1,7 +1,7 @@
 const getProfile = (req, res) => {
   try {
     const profile = {
-      email: "ridwany@gmail.com",
+      email: "ridwanyinusa@gmail.com",
       current_datetime: new Date().toISOString(),
       github_url: "https://github.com/Olanrewaju-0123/Hng_Backend",
     };
