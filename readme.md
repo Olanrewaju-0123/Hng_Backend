@@ -27,4 +27,4 @@ How to run the task locally:
 
 Backlink Reated to my stack:
 
-1. https://hng12.slack.com/archives/C088XGSSWVC/p1738158813524779
+Nodejs: https://hng.tech/hire/nodejs-developers
