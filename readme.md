@@ -24,3 +24,7 @@ How to run the task locally:
 2. npm install
 3. npm run dev
 4. open http://localhost:2025
+
+Backlink Reated to my stack:
+
+1. https://hng12.slack.com/archives/C088XGSSWVC/p1738158813524779
